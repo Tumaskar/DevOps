@@ -6,7 +6,7 @@
 	JohnCena@gmail.com
 	DevOps Engineer
 # THANKS
-	John Cena
+	Thanks to all
 
 # TECHNOLOGY COLOPHON
 	HTML5, CSS3, Angular
