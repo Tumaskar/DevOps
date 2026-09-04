@@ -1,1 +1,1 @@
-# DevOps
+License: Public Domain
