@@ -2,10 +2,11 @@
 # The humans responsible & technology colophon
 
 # TEAM
-	<name> Adam John -- <twitter>
-
+	John Cena
+	JohnCena@gmail.com
+	DevOps Engineer
 # THANKS
-	<name>
+	John Cena
 
 # TECHNOLOGY COLOPHON
 	HTML5, CSS3, Angular
