@@ -3,6 +3,7 @@
 
  Hi, I am modifiying the file before rebase
  Doing some changes in local
+ Adding important notes on git stash
 # TEAM
 	John Cena
 	JohnCena@gmail.com
