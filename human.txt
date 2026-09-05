@@ -16,3 +16,4 @@
 	HTML5, CSS3, Angular
 	jQuery, Modernizr
 	Machine Learning
+	AWS Solution Architrect Developer
